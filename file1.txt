@@ -1,5 +1,3 @@
 pre line 1
 pre line 2
-file text line 3
-lune4
-file text line 5
+file text 3
