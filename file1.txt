@@ -1,5 +1,21 @@
 pre line 1
+<<<<<<< HEAD
+<<<<<<< HEAD
 pre line 4
 fiule text line 1
 lune2
 lune 3
+=======
+file text line 1
+line2
+>>>>>>> 57490f7... edit file1, add file3
+=======
+pre line 2
+<<<<<<< HEAD
+file text line 3
+lune4
+file text line 5
+>>>>>>> 50bfa1e... edit file1
+=======
+file text 3
+>>>>>>> d5ad869... This is a combination of 3 commits.
